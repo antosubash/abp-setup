@@ -26,15 +26,17 @@ public class Program
         try
         {
             Log.Information("Starting console host.");
-
-            await Host.CreateDefaultBuilder(args)
-                .ConfigureServices(services =>
-                {
-                    services.AddHostedService<AbpSetupHostedService>();
-                })
-                .UseSerilog()
-                .RunConsoleAsync();
-
+            var builder = ConsoleApp.CreateBuilder(args);
+            builder.ConfigureServices(services =>
+            {
+                services.AddHostedService<AbpSetupHostedService>();
+                services.AddApplication<AbpSetupModule>();
+            });
+            var app = builder.Build();
+            //app.AddRootCommand(() => new CreateCommand(app.Services.GetRequiredService<HelloWorldService>()));
+            app.AddCommands<CreateCommand>();
+            app.AddCommands<TestCommand>();
+            await app.RunAsync();
             return 0;
         }
         catch (Exception ex)

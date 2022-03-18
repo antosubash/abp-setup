@@ -33,10 +33,6 @@ public class AbpSetupHostedService : IHostedService
         });
 
         await _abpApplication.InitializeAsync();
-
-        var helloWorldService = _abpApplication.ServiceProvider.GetRequiredService<HelloWorldService>();
-
-        await helloWorldService.SayHelloAsync();
     }
 
     public async Task StopAsync(CancellationToken cancellationToken)

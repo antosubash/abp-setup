@@ -37,3 +37,550 @@
 2022-03-18 10:39:52.896 +01:00 [INF] Hosting environment: Production
 2022-03-18 10:39:52.896 +01:00 [INF] Content root path: C:\repos\GitHub\abp-setup\src\AbpSetup
 2022-03-18 10:40:37.662 +01:00 [INF] Application is shutting down...
+2022-03-18 10:56:52.580 +01:00 [INF] Starting console host.
+2022-03-18 10:56:52.901 +01:00 [INF] Loaded ABP modules:
+2022-03-18 10:56:52.902 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 10:56:52.902 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 10:56:52.902 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 10:56:52.911 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 10:56:52.911 +01:00 [INF] EnvironmentName => Production
+2022-03-18 10:56:52.911 +01:00 [INF] Initialized all ABP modules.
+2022-03-18 10:56:52.918 +01:00 [INF] Hello World!
+2022-03-18 10:57:02.803 +01:00 [INF] Starting console host.
+2022-03-18 10:57:03.036 +01:00 [INF] Loaded ABP modules:
+2022-03-18 10:57:03.037 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 10:57:03.037 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 10:57:03.037 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 10:57:03.046 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 10:57:03.046 +01:00 [INF] EnvironmentName => Production
+2022-03-18 10:57:03.047 +01:00 [INF] Initialized all ABP modules.
+2022-03-18 10:57:03.054 +01:00 [INF] Hello World!
+2022-03-18 10:58:40.793 +01:00 [INF] Starting console host.
+2022-03-18 10:58:41.036 +01:00 [INF] Loaded ABP modules:
+2022-03-18 10:58:41.037 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 10:58:41.037 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 10:58:41.037 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 10:58:41.045 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 10:58:41.045 +01:00 [INF] EnvironmentName => Production
+2022-03-18 10:58:41.046 +01:00 [INF] Initialized all ABP modules.
+2022-03-18 10:58:41.052 +01:00 [INF] Hello World!
+2022-03-18 10:58:52.408 +01:00 [INF] Starting console host.
+2022-03-18 10:58:52.650 +01:00 [INF] Loaded ABP modules:
+2022-03-18 10:58:52.651 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 10:58:52.651 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 10:58:52.651 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 10:58:52.661 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 10:58:52.661 +01:00 [INF] EnvironmentName => Production
+2022-03-18 10:58:52.662 +01:00 [INF] Initialized all ABP modules.
+2022-03-18 10:58:52.669 +01:00 [INF] Hello World!
+2022-03-18 10:58:58.422 +01:00 [INF] Starting console host.
+2022-03-18 10:58:58.660 +01:00 [INF] Loaded ABP modules:
+2022-03-18 10:58:58.661 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 10:58:58.661 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 10:58:58.661 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 10:58:58.670 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 10:58:58.670 +01:00 [INF] EnvironmentName => Production
+2022-03-18 10:58:58.670 +01:00 [INF] Initialized all ABP modules.
+2022-03-18 10:58:58.676 +01:00 [INF] Hello World!
+2022-03-18 10:59:15.840 +01:00 [INF] Starting console host.
+2022-03-18 10:59:16.079 +01:00 [INF] Loaded ABP modules:
+2022-03-18 10:59:16.080 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 10:59:16.080 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 10:59:16.080 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 10:59:16.090 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 10:59:16.090 +01:00 [INF] EnvironmentName => Production
+2022-03-18 10:59:16.091 +01:00 [INF] Initialized all ABP modules.
+2022-03-18 10:59:16.098 +01:00 [INF] Hello World!
+2022-03-18 10:59:34.359 +01:00 [INF] Starting console host.
+2022-03-18 10:59:34.600 +01:00 [INF] Loaded ABP modules:
+2022-03-18 10:59:34.601 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 10:59:34.601 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 10:59:34.601 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 10:59:34.609 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 10:59:34.609 +01:00 [INF] EnvironmentName => Production
+2022-03-18 10:59:34.610 +01:00 [INF] Initialized all ABP modules.
+2022-03-18 10:59:34.616 +01:00 [INF] Hello World!
+2022-03-18 10:59:42.085 +01:00 [INF] Starting console host.
+2022-03-18 10:59:42.320 +01:00 [INF] Loaded ABP modules:
+2022-03-18 10:59:42.321 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 10:59:42.321 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 10:59:42.321 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 10:59:42.330 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 10:59:42.330 +01:00 [INF] EnvironmentName => Production
+2022-03-18 10:59:42.330 +01:00 [INF] Initialized all ABP modules.
+2022-03-18 10:59:42.337 +01:00 [INF] Hello World!
+2022-03-18 11:00:19.940 +01:00 [INF] Starting console host.
+2022-03-18 11:00:20.175 +01:00 [INF] Loaded ABP modules:
+2022-03-18 11:00:20.176 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 11:00:20.176 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 11:00:20.176 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 11:00:20.185 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 11:00:20.185 +01:00 [INF] EnvironmentName => Production
+2022-03-18 11:00:20.186 +01:00 [INF] Initialized all ABP modules.
+2022-03-18 11:00:20.193 +01:00 [INF] Hello World!
+2022-03-18 11:00:31.549 +01:00 [INF] Starting console host.
+2022-03-18 11:00:31.784 +01:00 [INF] Loaded ABP modules:
+2022-03-18 11:00:31.785 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 11:00:31.785 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 11:00:31.785 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 11:00:31.794 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 11:00:31.794 +01:00 [INF] EnvironmentName => Production
+2022-03-18 11:00:31.795 +01:00 [INF] Initialized all ABP modules.
+2022-03-18 11:00:31.802 +01:00 [INF] Hello World!
+2022-03-18 11:00:47.591 +01:00 [INF] Starting console host.
+2022-03-18 11:00:47.823 +01:00 [INF] Loaded ABP modules:
+2022-03-18 11:00:47.824 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 11:00:47.824 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 11:00:47.824 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 11:00:47.835 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 11:00:47.835 +01:00 [INF] EnvironmentName => Production
+2022-03-18 11:00:47.836 +01:00 [INF] Initialized all ABP modules.
+2022-03-18 11:00:47.842 +01:00 [INF] Hello World!
+2022-03-18 11:01:04.816 +01:00 [INF] Starting console host.
+2022-03-18 11:01:05.055 +01:00 [INF] Loaded ABP modules:
+2022-03-18 11:01:05.056 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 11:01:05.056 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 11:01:05.056 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 11:01:05.065 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 11:01:05.065 +01:00 [INF] EnvironmentName => Production
+2022-03-18 11:01:05.066 +01:00 [INF] Initialized all ABP modules.
+2022-03-18 11:01:05.074 +01:00 [INF] Hello World!
+2022-03-18 11:01:13.466 +01:00 [INF] Starting console host.
+2022-03-18 11:01:13.703 +01:00 [INF] Loaded ABP modules:
+2022-03-18 11:01:13.704 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 11:01:13.704 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 11:01:13.704 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 11:01:13.713 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 11:01:13.713 +01:00 [INF] EnvironmentName => Production
+2022-03-18 11:01:13.713 +01:00 [INF] Initialized all ABP modules.
+2022-03-18 11:01:13.721 +01:00 [INF] Hello World!
+2022-03-18 11:01:50.437 +01:00 [INF] Starting console host.
+2022-03-18 11:01:50.679 +01:00 [INF] Loaded ABP modules:
+2022-03-18 11:01:50.680 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 11:01:50.680 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 11:01:50.680 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 11:01:50.690 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 11:01:50.690 +01:00 [INF] EnvironmentName => Production
+2022-03-18 11:01:50.690 +01:00 [INF] Initialized all ABP modules.
+2022-03-18 11:01:50.697 +01:00 [INF] Hello World!
+2022-03-18 11:02:04.187 +01:00 [INF] Starting console host.
+2022-03-18 11:02:04.423 +01:00 [INF] Loaded ABP modules:
+2022-03-18 11:02:04.424 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 11:02:04.424 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 11:02:04.424 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 11:02:04.435 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 11:02:04.435 +01:00 [INF] EnvironmentName => Production
+2022-03-18 11:02:04.436 +01:00 [INF] Initialized all ABP modules.
+2022-03-18 11:02:04.443 +01:00 [INF] Hello World!
+2022-03-18 11:02:14.918 +01:00 [INF] Starting console host.
+2022-03-18 11:02:15.157 +01:00 [INF] Loaded ABP modules:
+2022-03-18 11:02:15.158 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 11:02:15.158 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 11:02:15.158 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 11:02:15.167 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 11:02:15.168 +01:00 [INF] EnvironmentName => Production
+2022-03-18 11:02:15.168 +01:00 [INF] Initialized all ABP modules.
+2022-03-18 11:02:15.176 +01:00 [INF] Hello World!
+2022-03-18 11:02:45.664 +01:00 [INF] Starting console host.
+2022-03-18 11:02:45.902 +01:00 [INF] Loaded ABP modules:
+2022-03-18 11:02:45.903 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 11:02:45.903 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 11:02:45.903 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 11:02:45.911 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 11:02:45.911 +01:00 [INF] EnvironmentName => Production
+2022-03-18 11:02:45.912 +01:00 [INF] Initialized all ABP modules.
+2022-03-18 11:02:45.919 +01:00 [INF] Hello World!
+2022-03-18 11:03:01.493 +01:00 [INF] Starting console host.
+2022-03-18 11:03:01.727 +01:00 [INF] Loaded ABP modules:
+2022-03-18 11:03:01.728 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 11:03:01.728 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 11:03:01.728 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 11:03:01.738 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 11:03:01.738 +01:00 [INF] EnvironmentName => Production
+2022-03-18 11:03:01.739 +01:00 [INF] Initialized all ABP modules.
+2022-03-18 11:03:01.745 +01:00 [INF] Hello World!
+2022-03-18 11:03:41.824 +01:00 [INF] Starting console host.
+2022-03-18 11:03:42.064 +01:00 [INF] Loaded ABP modules:
+2022-03-18 11:03:42.065 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 11:03:42.065 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 11:03:42.065 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 11:03:42.074 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 11:03:42.074 +01:00 [INF] EnvironmentName => Production
+2022-03-18 11:03:42.075 +01:00 [INF] Initialized all ABP modules.
+2022-03-18 11:03:42.081 +01:00 [INF] Hello World!
+2022-03-18 11:05:26.983 +01:00 [INF] Starting console host.
+2022-03-18 11:05:27.247 +01:00 [INF] Loaded ABP modules:
+2022-03-18 11:05:27.248 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 11:05:27.248 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 11:05:27.248 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 11:05:27.258 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 11:05:27.258 +01:00 [INF] EnvironmentName => Production
+2022-03-18 11:05:27.259 +01:00 [INF] Initialized all ABP modules.
+2022-03-18 11:32:04.544 +01:00 [INF] Starting console host.
+2022-03-18 11:32:05.707 +01:00 [INF] Loaded ABP modules:
+2022-03-18 11:32:05.708 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 11:32:05.708 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 11:32:05.708 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 11:32:05.716 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 11:32:05.716 +01:00 [INF] EnvironmentName => Production
+2022-03-18 11:32:05.717 +01:00 [INF] Initialized all ABP modules.
+2022-03-18 11:34:58.912 +01:00 [INF] Starting console host.
+2022-03-18 11:34:59.189 +01:00 [INF] Loaded ABP modules:
+2022-03-18 11:34:59.190 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 11:34:59.190 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 11:34:59.190 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 11:34:59.199 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 11:34:59.199 +01:00 [INF] EnvironmentName => Production
+2022-03-18 11:34:59.200 +01:00 [INF] Initialized all ABP modules.
+2022-03-18 11:35:49.301 +01:00 [INF] Starting console host.
+2022-03-18 11:35:49.546 +01:00 [INF] Loaded ABP modules:
+2022-03-18 11:35:49.547 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 11:35:49.547 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 11:35:49.547 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 11:35:49.556 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 11:35:49.556 +01:00 [INF] EnvironmentName => Production
+2022-03-18 11:35:49.556 +01:00 [INF] Initialized all ABP modules.
+2022-03-18 11:35:56.354 +01:00 [INF] Starting console host.
+2022-03-18 11:35:56.619 +01:00 [INF] Loaded ABP modules:
+2022-03-18 11:35:56.620 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 11:35:56.620 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 11:35:56.620 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 11:35:56.630 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 11:35:56.630 +01:00 [INF] EnvironmentName => Production
+2022-03-18 11:35:56.630 +01:00 [INF] Initialized all ABP modules.
+2022-03-18 11:37:10.310 +01:00 [INF] Starting console host.
+2022-03-18 11:37:10.551 +01:00 [INF] Loaded ABP modules:
+2022-03-18 11:37:10.552 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 11:37:10.552 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 11:37:10.552 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 11:37:10.560 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 11:37:10.561 +01:00 [INF] EnvironmentName => Production
+2022-03-18 11:37:10.561 +01:00 [INF] Initialized all ABP modules.
+2022-03-18 11:44:17.457 +01:00 [INF] Starting console host.
+2022-03-18 11:44:17.708 +01:00 [INF] Loaded ABP modules:
+2022-03-18 11:44:17.709 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 11:44:17.709 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 11:44:17.709 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 11:44:17.719 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 11:44:17.719 +01:00 [INF] EnvironmentName => Production
+2022-03-18 11:44:17.720 +01:00 [INF] Initialized all ABP modules.
+2022-03-18 11:45:15.188 +01:00 [INF] Starting console host.
+2022-03-18 11:45:15.447 +01:00 [INF] Loaded ABP modules:
+2022-03-18 11:45:15.448 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 11:45:15.448 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 11:45:15.448 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 11:45:15.456 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 11:45:15.457 +01:00 [INF] EnvironmentName => Production
+2022-03-18 11:45:15.457 +01:00 [INF] Initialized all ABP modules.
+2022-03-18 11:45:32.671 +01:00 [INF] Starting console host.
+2022-03-18 11:45:32.918 +01:00 [INF] Loaded ABP modules:
+2022-03-18 11:45:32.919 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 11:45:32.919 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 11:45:32.919 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 11:45:32.929 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 11:45:32.929 +01:00 [INF] EnvironmentName => Production
+2022-03-18 11:45:32.929 +01:00 [INF] Initialized all ABP modules.
+2022-03-18 11:46:17.470 +01:00 [INF] Starting console host.
+2022-03-18 11:46:17.717 +01:00 [INF] Loaded ABP modules:
+2022-03-18 11:46:17.718 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 11:46:17.718 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 11:46:17.718 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 11:46:17.728 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 11:46:17.728 +01:00 [INF] EnvironmentName => Production
+2022-03-18 11:46:17.729 +01:00 [INF] Initialized all ABP modules.
+2022-03-18 11:46:23.650 +01:00 [INF] Starting console host.
+2022-03-18 11:46:23.895 +01:00 [INF] Loaded ABP modules:
+2022-03-18 11:46:23.896 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 11:46:23.896 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 11:46:23.896 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 11:46:23.905 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 11:46:23.905 +01:00 [INF] EnvironmentName => Production
+2022-03-18 11:46:23.906 +01:00 [INF] Initialized all ABP modules.
+2022-03-18 11:48:16.060 +01:00 [INF] Starting console host.
+2022-03-18 11:48:16.309 +01:00 [INF] Loaded ABP modules:
+2022-03-18 11:48:16.310 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 11:48:16.310 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 11:48:16.310 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 11:48:16.321 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 11:48:16.321 +01:00 [INF] EnvironmentName => Production
+2022-03-18 11:48:16.321 +01:00 [INF] Initialized all ABP modules.
+2022-03-18 11:59:04.244 +01:00 [INF] Starting console host.
+2022-03-18 11:59:04.498 +01:00 [INF] Loaded ABP modules:
+2022-03-18 11:59:04.499 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 11:59:04.499 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 11:59:04.499 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 11:59:04.511 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 11:59:04.511 +01:00 [INF] EnvironmentName => Production
+2022-03-18 11:59:04.512 +01:00 [INF] Initialized all ABP modules.
+2022-03-18 11:59:14.816 +01:00 [INF] Starting console host.
+2022-03-18 11:59:15.061 +01:00 [INF] Loaded ABP modules:
+2022-03-18 11:59:15.062 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 11:59:15.062 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 11:59:15.062 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 11:59:15.073 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 11:59:15.073 +01:00 [INF] EnvironmentName => Production
+2022-03-18 11:59:15.074 +01:00 [INF] Initialized all ABP modules.
+2022-03-18 11:59:26.175 +01:00 [INF] Starting console host.
+2022-03-18 11:59:26.423 +01:00 [INF] Loaded ABP modules:
+2022-03-18 11:59:26.424 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 11:59:26.424 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 11:59:26.424 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 11:59:26.435 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 11:59:26.435 +01:00 [INF] EnvironmentName => Production
+2022-03-18 11:59:26.435 +01:00 [INF] Initialized all ABP modules.
+2022-03-18 12:00:17.087 +01:00 [INF] Starting console host.
+2022-03-18 12:00:17.344 +01:00 [INF] Loaded ABP modules:
+2022-03-18 12:00:17.345 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 12:00:17.345 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 12:00:17.345 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 12:00:17.353 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 12:00:17.353 +01:00 [INF] EnvironmentName => Production
+2022-03-18 12:00:17.354 +01:00 [INF] Initialized all ABP modules.
+2022-03-18 12:00:32.508 +01:00 [INF] Starting console host.
+2022-03-18 12:00:32.762 +01:00 [INF] Loaded ABP modules:
+2022-03-18 12:00:32.763 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 12:00:32.763 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 12:00:32.763 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 12:00:32.774 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 12:00:32.774 +01:00 [INF] EnvironmentName => Production
+2022-03-18 12:00:32.775 +01:00 [INF] Initialized all ABP modules.
+2022-03-18 12:00:37.529 +01:00 [INF] Starting console host.
+2022-03-18 12:00:37.775 +01:00 [INF] Loaded ABP modules:
+2022-03-18 12:00:37.776 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 12:00:37.776 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 12:00:37.776 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 12:00:37.786 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 12:00:37.786 +01:00 [INF] EnvironmentName => Production
+2022-03-18 12:00:37.786 +01:00 [INF] Initialized all ABP modules.
+2022-03-18 12:02:52.566 +01:00 [INF] Starting console host.
+2022-03-18 12:02:52.820 +01:00 [INF] Loaded ABP modules:
+2022-03-18 12:02:52.821 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 12:02:52.821 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 12:02:52.821 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 12:02:52.831 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 12:02:52.831 +01:00 [INF] EnvironmentName => Production
+2022-03-18 12:02:52.832 +01:00 [INF] Initialized all ABP modules.
+2022-03-18 12:03:29.851 +01:00 [INF] Starting console host.
+2022-03-18 12:03:30.103 +01:00 [INF] Loaded ABP modules:
+2022-03-18 12:03:30.104 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 12:03:30.104 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 12:03:30.104 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 12:03:30.115 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 12:03:30.115 +01:00 [INF] EnvironmentName => Production
+2022-03-18 12:03:30.115 +01:00 [INF] Initialized all ABP modules.
+2022-03-18 12:04:03.512 +01:00 [INF] Starting console host.
+2022-03-18 12:04:03.759 +01:00 [INF] Loaded ABP modules:
+2022-03-18 12:04:03.760 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 12:04:03.760 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 12:04:03.760 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 12:04:03.769 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 12:04:03.769 +01:00 [INF] EnvironmentName => Production
+2022-03-18 12:04:03.769 +01:00 [INF] Initialized all ABP modules.
+2022-03-18 12:04:09.528 +01:00 [INF] Starting console host.
+2022-03-18 12:04:09.777 +01:00 [INF] Loaded ABP modules:
+2022-03-18 12:04:09.778 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 12:04:09.778 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 12:04:09.778 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 12:04:09.787 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 12:04:09.787 +01:00 [INF] EnvironmentName => Production
+2022-03-18 12:04:09.788 +01:00 [INF] Initialized all ABP modules.
+2022-03-18 12:04:23.642 +01:00 [INF] Starting console host.
+2022-03-18 12:04:23.891 +01:00 [INF] Loaded ABP modules:
+2022-03-18 12:04:23.892 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 12:04:23.892 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 12:04:23.892 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 12:04:23.901 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 12:04:23.901 +01:00 [INF] EnvironmentName => Production
+2022-03-18 12:04:23.902 +01:00 [INF] Initialized all ABP modules.
+2022-03-18 12:05:11.500 +01:00 [INF] Starting console host.
+2022-03-18 12:05:11.752 +01:00 [INF] Loaded ABP modules:
+2022-03-18 12:05:11.753 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 12:05:11.753 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 12:05:11.753 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 12:05:11.763 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 12:05:11.763 +01:00 [INF] EnvironmentName => Production
+2022-03-18 12:05:11.764 +01:00 [INF] Initialized all ABP modules.
+2022-03-18 12:06:16.077 +01:00 [INF] Starting console host.
+2022-03-18 12:06:16.338 +01:00 [INF] Loaded ABP modules:
+2022-03-18 12:06:16.339 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 12:06:16.339 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 12:06:16.339 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 12:06:16.347 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 12:06:16.347 +01:00 [INF] EnvironmentName => Production
+2022-03-18 12:06:16.347 +01:00 [INF] Initialized all ABP modules.
+2022-03-18 12:06:21.891 +01:00 [INF] Starting console host.
+2022-03-18 12:06:22.145 +01:00 [INF] Loaded ABP modules:
+2022-03-18 12:06:22.146 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 12:06:22.146 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 12:06:22.146 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 12:06:22.157 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 12:06:22.157 +01:00 [INF] EnvironmentName => Production
+2022-03-18 12:06:22.158 +01:00 [INF] Initialized all ABP modules.
+2022-03-18 12:06:29.352 +01:00 [INF] Starting console host.
+2022-03-18 12:06:29.602 +01:00 [INF] Loaded ABP modules:
+2022-03-18 12:06:29.603 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 12:06:29.603 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 12:06:29.603 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 12:06:29.611 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 12:06:29.611 +01:00 [INF] EnvironmentName => Production
+2022-03-18 12:06:29.612 +01:00 [INF] Initialized all ABP modules.
+2022-03-18 12:07:02.117 +01:00 [INF] Starting console host.
+2022-03-18 12:07:02.367 +01:00 [INF] Loaded ABP modules:
+2022-03-18 12:07:02.368 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 12:07:02.368 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 12:07:02.368 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 12:07:02.377 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 12:07:02.377 +01:00 [INF] EnvironmentName => Production
+2022-03-18 12:07:02.377 +01:00 [INF] Initialized all ABP modules.
+2022-03-18 12:09:11.937 +01:00 [INF] Starting console host.
+2022-03-18 12:09:12.182 +01:00 [INF] Loaded ABP modules:
+2022-03-18 12:09:12.183 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 12:09:12.183 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 12:09:12.183 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 12:09:12.194 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 12:09:12.194 +01:00 [INF] EnvironmentName => Production
+2022-03-18 12:09:12.195 +01:00 [INF] Initialized all ABP modules.
+2022-03-18 12:09:21.539 +01:00 [INF] Starting console host.
+2022-03-18 12:09:21.772 +01:00 [INF] Loaded ABP modules:
+2022-03-18 12:09:21.773 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 12:09:21.773 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 12:09:21.773 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 12:09:21.783 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 12:09:21.783 +01:00 [INF] EnvironmentName => Production
+2022-03-18 12:09:21.783 +01:00 [INF] Initialized all ABP modules.
+2022-03-18 12:10:58.079 +01:00 [INF] Starting console host.
+2022-03-18 12:10:58.318 +01:00 [INF] Loaded ABP modules:
+2022-03-18 12:10:58.319 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 12:10:58.319 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 12:10:58.319 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 12:10:58.329 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 12:10:58.329 +01:00 [INF] EnvironmentName => Production
+2022-03-18 12:10:58.330 +01:00 [INF] Initialized all ABP modules.
+2022-03-18 12:11:33.886 +01:00 [INF] Starting console host.
+2022-03-18 12:11:34.125 +01:00 [INF] Loaded ABP modules:
+2022-03-18 12:11:34.126 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 12:11:34.126 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 12:11:34.126 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 12:11:34.136 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 12:11:34.136 +01:00 [INF] EnvironmentName => Production
+2022-03-18 12:11:34.136 +01:00 [INF] Initialized all ABP modules.
+2022-03-18 12:11:55.031 +01:00 [INF] Starting console host.
+2022-03-18 12:11:55.282 +01:00 [INF] Loaded ABP modules:
+2022-03-18 12:11:55.283 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 12:11:55.283 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 12:11:55.283 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 12:11:55.292 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 12:11:55.292 +01:00 [INF] EnvironmentName => Production
+2022-03-18 12:11:55.293 +01:00 [INF] Initialized all ABP modules.
+2022-03-18 12:12:28.043 +01:00 [INF] Starting console host.
+2022-03-18 12:12:28.293 +01:00 [INF] Loaded ABP modules:
+2022-03-18 12:12:28.294 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 12:12:28.294 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 12:12:28.294 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 12:12:28.305 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 12:12:28.305 +01:00 [INF] EnvironmentName => Production
+2022-03-18 12:12:28.306 +01:00 [INF] Initialized all ABP modules.
+2022-03-18 12:13:47.724 +01:00 [INF] Starting console host.
+2022-03-18 12:13:47.960 +01:00 [INF] Loaded ABP modules:
+2022-03-18 12:13:47.962 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 12:13:47.962 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 12:13:47.962 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 12:13:47.971 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 12:13:47.971 +01:00 [INF] EnvironmentName => Production
+2022-03-18 12:13:47.971 +01:00 [INF] Initialized all ABP modules.
+2022-03-18 12:14:29.231 +01:00 [INF] Starting console host.
+2022-03-18 12:14:29.471 +01:00 [INF] Loaded ABP modules:
+2022-03-18 12:14:29.472 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 12:14:29.472 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 12:14:29.472 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 12:14:29.482 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 12:14:29.482 +01:00 [INF] EnvironmentName => Production
+2022-03-18 12:14:29.482 +01:00 [INF] Initialized all ABP modules.
+2022-03-18 12:14:42.747 +01:00 [INF] Starting console host.
+2022-03-18 12:14:42.987 +01:00 [INF] Loaded ABP modules:
+2022-03-18 12:14:42.988 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 12:14:42.988 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 12:14:42.988 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 12:14:42.997 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 12:14:42.997 +01:00 [INF] EnvironmentName => Production
+2022-03-18 12:14:42.997 +01:00 [INF] Initialized all ABP modules.
+2022-03-18 12:18:06.918 +01:00 [INF] Starting console host.
+2022-03-18 12:18:07.154 +01:00 [INF] Loaded ABP modules:
+2022-03-18 12:18:07.155 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 12:18:07.155 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 12:18:07.155 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 12:18:07.163 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 12:18:07.163 +01:00 [INF] EnvironmentName => Production
+2022-03-18 12:18:07.164 +01:00 [INF] Initialized all ABP modules.
+2022-03-18 12:18:36.475 +01:00 [INF] Starting console host.
+2022-03-18 12:18:36.709 +01:00 [INF] Loaded ABP modules:
+2022-03-18 12:18:36.710 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 12:18:36.710 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 12:18:36.710 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 12:18:36.720 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 12:18:36.720 +01:00 [INF] EnvironmentName => Production
+2022-03-18 12:18:36.720 +01:00 [INF] Initialized all ABP modules.
+2022-03-18 12:18:45.222 +01:00 [INF] Starting console host.
+2022-03-18 12:18:45.458 +01:00 [INF] Loaded ABP modules:
+2022-03-18 12:18:45.459 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 12:18:45.460 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 12:18:45.460 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 12:18:45.468 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 12:18:45.469 +01:00 [INF] EnvironmentName => Production
+2022-03-18 12:18:45.470 +01:00 [INF] Initialized all ABP modules.
+2022-03-18 12:19:00.026 +01:00 [INF] Starting console host.
+2022-03-18 12:19:00.277 +01:00 [INF] Loaded ABP modules:
+2022-03-18 12:19:00.278 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 12:19:00.278 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 12:19:00.278 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 12:19:00.287 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 12:19:00.287 +01:00 [INF] EnvironmentName => Production
+2022-03-18 12:19:00.287 +01:00 [INF] Initialized all ABP modules.
+2022-03-18 12:19:20.091 +01:00 [INF] Starting console host.
+2022-03-18 12:19:20.330 +01:00 [INF] Loaded ABP modules:
+2022-03-18 12:19:20.331 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 12:19:20.331 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 12:19:20.331 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 12:19:20.339 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 12:19:20.339 +01:00 [INF] EnvironmentName => Production
+2022-03-18 12:19:20.339 +01:00 [INF] Initialized all ABP modules.
+2022-03-18 12:19:33.237 +01:00 [INF] Starting console host.
+2022-03-18 12:19:33.477 +01:00 [INF] Loaded ABP modules:
+2022-03-18 12:19:33.479 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 12:19:33.479 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 12:19:33.479 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 12:19:33.488 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 12:19:33.488 +01:00 [INF] EnvironmentName => Production
+2022-03-18 12:19:33.489 +01:00 [INF] Initialized all ABP modules.
+2022-03-18 12:19:59.729 +01:00 [INF] Starting console host.
+2022-03-18 12:19:59.966 +01:00 [INF] Loaded ABP modules:
+2022-03-18 12:19:59.967 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 12:19:59.967 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 12:19:59.967 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 12:19:59.976 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 12:19:59.976 +01:00 [INF] EnvironmentName => Production
+2022-03-18 12:19:59.977 +01:00 [INF] Initialized all ABP modules.
+2022-03-18 12:20:16.497 +01:00 [INF] Starting console host.
+2022-03-18 12:20:16.754 +01:00 [INF] Loaded ABP modules:
+2022-03-18 12:20:16.755 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 12:20:16.755 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 12:20:16.755 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 12:20:16.764 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 12:20:16.764 +01:00 [INF] EnvironmentName => Production
+2022-03-18 12:20:16.764 +01:00 [INF] Initialized all ABP modules.
+2022-03-18 12:22:19.084 +01:00 [INF] Starting console host.
+2022-03-18 12:22:19.322 +01:00 [INF] Loaded ABP modules:
+2022-03-18 12:22:19.323 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 12:22:19.323 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 12:22:19.323 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 12:22:19.332 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 12:22:19.332 +01:00 [INF] EnvironmentName => Production
+2022-03-18 12:22:19.332 +01:00 [INF] Initialized all ABP modules.
+2022-03-18 12:22:25.270 +01:00 [INF] Starting console host.
+2022-03-18 12:22:25.509 +01:00 [INF] Loaded ABP modules:
+2022-03-18 12:22:25.510 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 12:22:25.510 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 12:22:25.510 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 12:22:25.519 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 12:22:25.519 +01:00 [INF] EnvironmentName => Production
+2022-03-18 12:22:25.520 +01:00 [INF] Initialized all ABP modules.
