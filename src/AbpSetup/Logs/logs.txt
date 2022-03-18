@@ -1,0 +1,39 @@
+2022-03-18 10:37:30.766 +01:00 [INF] Starting console host.
+2022-03-18 10:37:31.720 +01:00 [INF] Loaded ABP modules:
+2022-03-18 10:37:31.721 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 10:37:31.721 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 10:37:31.721 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 10:37:31.732 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 10:37:31.732 +01:00 [INF] EnvironmentName => Production
+2022-03-18 10:37:31.732 +01:00 [INF] Initialized all ABP modules.
+2022-03-18 10:37:31.739 +01:00 [INF] Hello World!
+2022-03-18 10:37:31.740 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-03-18 10:37:31.743 +01:00 [INF] Hosting environment: Production
+2022-03-18 10:37:31.743 +01:00 [INF] Content root path: C:\repos\GitHub\abp-setup\src\AbpSetup
+2022-03-18 10:38:04.765 +01:00 [INF] Application is shutting down...
+2022-03-18 10:38:11.338 +01:00 [INF] Starting console host.
+2022-03-18 10:38:11.555 +01:00 [INF] Loaded ABP modules:
+2022-03-18 10:38:11.556 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 10:38:11.556 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 10:38:11.556 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 10:38:11.567 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 10:38:11.567 +01:00 [INF] EnvironmentName => Production
+2022-03-18 10:38:11.567 +01:00 [INF] Initialized all ABP modules.
+2022-03-18 10:38:11.577 +01:00 [INF] Hello World!
+2022-03-18 10:38:11.578 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-03-18 10:38:11.581 +01:00 [INF] Hosting environment: Production
+2022-03-18 10:38:11.581 +01:00 [INF] Content root path: C:\repos\GitHub\abp-setup\src\AbpSetup
+2022-03-18 10:38:17.276 +01:00 [INF] Application is shutting down...
+2022-03-18 10:39:52.631 +01:00 [INF] Starting console host.
+2022-03-18 10:39:52.876 +01:00 [INF] Loaded ABP modules:
+2022-03-18 10:39:52.877 +01:00 [INF] - AbpSetup.AbpSetupModule
+2022-03-18 10:39:52.877 +01:00 [INF]   - Volo.Abp.Autofac.AbpAutofacModule
+2022-03-18 10:39:52.877 +01:00 [INF]     - Volo.Abp.Castle.AbpCastleCoreModule
+2022-03-18 10:39:52.885 +01:00 [INF] MySettingName => MySettingValue
+2022-03-18 10:39:52.885 +01:00 [INF] EnvironmentName => Production
+2022-03-18 10:39:52.886 +01:00 [INF] Initialized all ABP modules.
+2022-03-18 10:39:52.893 +01:00 [INF] Hello World!
+2022-03-18 10:39:52.893 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-03-18 10:39:52.896 +01:00 [INF] Hosting environment: Production
+2022-03-18 10:39:52.896 +01:00 [INF] Content root path: C:\repos\GitHub\abp-setup\src\AbpSetup
+2022-03-18 10:40:37.662 +01:00 [INF] Application is shutting down...
