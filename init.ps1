@@ -8,26 +8,26 @@ abp new "$name.AdministrationService" -t module --no-ui -o services\administrati
 abp new "$name.IdentityService" -t module --no-ui -o services\identity
 abp new "$name.SaaSService" -t module --no-ui -o services\saas
 dotnet new sln -n "$name"
-dotnet sln ".\$name.sln" add (ls -r **/*.csproj)
+dotnet sln ".\$name.sln" add (Get-ChildItem -r **/*.csproj)
 abp new "$name" -t app -u angular -dbms PostgreSQL -m none --separate-identity-server --database-provider ef -csf -o temp
 Move-Item -Path ".\temp\$name\angular\" -Destination .\apps\angular
 Move-Item -Path ".\temp\$name\aspnet-core\src\$name.DbMigrator" -Destination .\shared\ -Force
 Move-Item -Path ".\temp\$name\aspnet-core\src\$name.IdentityServer" -Destination .\apps\ -Force
 Remove-Item -Recurse -Force .\temp\ 
-dotnet sln ".\$name.sln" remove (ls -r **/*.Installer.csproj)
-dotnet sln ".\$name.sln" remove (ls -r **/*.Host.Shared.csproj)
-dotnet sln ".\$name.sln" remove (ls -r **/*.MongoDB.csproj)
-dotnet sln ".\$name.sln" remove (ls -r **/*.MongoDB.Tests.csproj)
-dotnet sln ".\$name.sln" remove (ls -r **/*.AdministrationService.IdentityServer.csproj)
-dotnet sln ".\$name.sln" remove (ls -r **/*.IdentityService.IdentityServer.csproj)
-dotnet sln ".\$name.sln" remove (ls -r **/*.SaaSService.IdentityServer.csproj)
-Remove-Item -Recurse -Force (ls -r **/*.SaaSService.IdentityServer)
-Remove-Item -Recurse -Force (ls -r **/*.IdentityService.IdentityServer)
-Remove-Item -Recurse -Force (ls -r **/*.AdministrationService.IdentityServer)
-Remove-Item -Recurse -Force (ls -r **/*.MongoDB.Tests)
-Remove-Item -Recurse -Force (ls -r **/*.MongoDB)
-Remove-Item -Recurse -Force (ls -r **/*.Host.Shared)
-Remove-Item -Recurse -Force (ls -r **/*.Installer)
+dotnet sln ".\$name.sln" remove (Get-ChildItem -r **/*.Installer.csproj)
+dotnet sln ".\$name.sln" remove (Get-ChildItem -r **/*.Host.Shared.csproj)
+dotnet sln ".\$name.sln" remove (Get-ChildItem -r **/*.MongoDB.csproj)
+dotnet sln ".\$name.sln" remove (Get-ChildItem -r **/*.MongoDB.Tests.csproj)
+dotnet sln ".\$name.sln" remove (Get-ChildItem -r **/*.AdministrationService.IdentityServer.csproj)
+dotnet sln ".\$name.sln" remove (Get-ChildItem -r **/*.IdentityService.IdentityServer.csproj)
+dotnet sln ".\$name.sln" remove (Get-ChildItem -r **/*.SaaSService.IdentityServer.csproj)
+Remove-Item -Recurse -Force (Get-ChildItem -r **/*.SaaSService.IdentityServer)
+Remove-Item -Recurse -Force (Get-ChildItem -r **/*.IdentityService.IdentityServer)
+Remove-Item -Recurse -Force (Get-ChildItem -r **/*.AdministrationService.IdentityServer)
+Remove-Item -Recurse -Force (Get-ChildItem -r **/*.MongoDB.Tests)
+Remove-Item -Recurse -Force (Get-ChildItem -r **/*.MongoDB)
+Remove-Item -Recurse -Force (Get-ChildItem -r **/*.Host.Shared)
+Remove-Item -Recurse -Force (Get-ChildItem -r **/*.Installer)
 abp add-module Volo.AuditLogging -s "services\administration\$name.AdministrationService.sln" --skip-db-migrations
 abp add-module Volo.FeatureManagement -s "services\administration\$name.AdministrationService.sln" --skip-db-migrations
 abp add-module Volo.PermissionManagement -s "services\administration\$name.AdministrationService.sln" --skip-db-migrations
