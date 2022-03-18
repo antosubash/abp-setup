@@ -1,5 +1,8 @@
-$name = $args[0]
-
+param(
+    [Parameter()]
+    [string]$name,
+)
+Write-Output "Creating microservice $name";
 dotnet new web -n "$name.IdentityServer" -o "apps\$name.IdentityServer"
 dotnet new web -n "$name.Gateway" -o "gateway\$name.Gateway"
 dotnet new classlib -n "$name.Shared.Hosting" -o "shared\$name.Shared.Hosting"
