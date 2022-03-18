@@ -253,3 +253,4 @@ paket-files/
 
 # AbpSetup
 src/AbpSetup.ConsoleApp/Logs/logs.txt
+src/AbpSetup/Logs/logs.txt

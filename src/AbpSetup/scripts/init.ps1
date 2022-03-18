@@ -1,7 +1,13 @@
 param(
     [Parameter()]
     [string]$name,
+    [Parameter()]
+    [string]$output = "."
 )
+
+$current = Get-Location
+
+Set-Location -Path $output
 Write-Output "Creating microservice $name";
 dotnet new web -n "$name.IdentityServer" -o "apps\$name.IdentityServer"
 dotnet new web -n "$name.Gateway" -o "gateway\$name.Gateway"
@@ -31,6 +37,7 @@ Remove-Item -Recurse -Force (Get-ChildItem -r **/*.MongoDB.Tests)
 Remove-Item -Recurse -Force (Get-ChildItem -r **/*.MongoDB)
 Remove-Item -Recurse -Force (Get-ChildItem -r **/*.Host.Shared)
 Remove-Item -Recurse -Force (Get-ChildItem -r **/*.Installer)
+
 abp add-module Volo.AuditLogging -s "services\administration\$name.AdministrationService.sln" --skip-db-migrations
 abp add-module Volo.FeatureManagement -s "services\administration\$name.AdministrationService.sln" --skip-db-migrations
 abp add-module Volo.PermissionManagement -s "services\administration\$name.AdministrationService.sln" --skip-db-migrations
@@ -40,3 +47,4 @@ abp add-module Volo.Identity -s "services\identity\$name.IdentityService.sln" --
 abp add-module Volo.IdentityServer -s "services\identity\$name.IdentityService.sln" --skip-db-migrations
 
 abp add-module Volo.TenantManagement -s "services\saas\$name.SaaSService.sln" --skip-db-migrations
+Set-Location $current

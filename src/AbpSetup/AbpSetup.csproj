@@ -8,8 +8,14 @@
     </PropertyGroup>
 
     <ItemGroup>
+      <None Remove="Scripts\init.ps1" />
+    </ItemGroup>
+
+    <ItemGroup>
         <PackageReference Include="ConsoleAppFramework" Version="4.0.6" />
+        <PackageReference Include="Kurukuru" Version="1.4.2" />
         <PackageReference Include="Microsoft.PowerShell.SDK" Version="7.2.2" />
+        <PackageReference Include="Spectre.Console" Version="0.43.0" />
         <PackageReference Include="Volo.Abp.Autofac" Version="5.1.4" />
     </ItemGroup>
 
@@ -27,6 +33,12 @@
             <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
             <CopyToOutputDirectory>Always</CopyToOutputDirectory>
         </Content>
+    </ItemGroup>
+
+    <ItemGroup>
+      <EmbeddedResource Include="Scripts\init.ps1">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </EmbeddedResource>
     </ItemGroup>
 
 </Project>

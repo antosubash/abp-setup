@@ -1,26 +1,40 @@
+using System.IO;
 using System;
 using Microsoft.Extensions.Logging;
 using System.Threading.Tasks;
 using AbpSetup.Services;
+using System.Collections.Generic;
+using Spectre.Console;
 
 public class CreateCommand : ConsoleAppBase
 {
     readonly ILogger<CreateCommand> logger;
-    private readonly HelloWorldService helloWorldService;
+    private readonly ScriptService scriptService;
 
-    //  You can receive DI services in constructor.
-    public CreateCommand(ILogger<CreateCommand> logger, HelloWorldService helloWorldService)
+    public CreateCommand(ILogger<CreateCommand> logger, ScriptService scriptService)
     {
         this.logger = logger;
-        this.helloWorldService = helloWorldService;
+        this.scriptService = scriptService;
     }
 
     [Command("create", "Create a new microservice project.")]
-    public async Task RunAsync([Option(0)] string input) 
+    public async Task RunAsync([Option(0)] string input, [Option("o", "Output folder")] string output)
     {
-        // Context has any useful information.
-        Console.WriteLine($"Input: {input}");
-        await helloWorldService.SayHelloAsync();;
+        var scriptLocation = @".\Scripts\init.ps1";
+        if (!File.Exists(scriptLocation))
+        {
+            logger.LogError($"{scriptLocation} not found.");
+            return;
+        }
+        Console.WriteLine($"Script found: {scriptLocation}");
+        await AnsiConsole.Status()
+        .StartAsync("Creating...", async ctx =>
+        {
+            await scriptService.ExecuteAsync(scriptLocation, new Dictionary<string, object>
+            {
+                { "name", input },
+                { "output", output }
+            });
+        });
     }
-
 }
